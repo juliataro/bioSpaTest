@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* ------------ Page header ------------*/
+.css-10mzr36-MuiGrid-root {
+  margin-left: 0 !important;
+  color: #585c69;
+}
+
+/*V----------- Header burger color ------------------ */
+
+.MuiButtonBase-root {
+  color: #9c9a9a !important;
+}
+
+.MuiButton-containedPrimary {
+  background-color: #72bb94 !important;
+  color: #fff !important;
+}
+
+/*======== Space in Header ================= */
+.MuiToolbar-root {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.makeStyles-logolinks-41 {
+  display: flex;
+  justify-content: flex-start;
+}
+
+/*V----------- DROPDOWN MENU ------------------ */
+
+#demo-multiple-checkbox-label {
+  color: #72bb94 !important;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+.MuiFormControl-root,
+.MuiBox-root {
+  width: 95% !important;
+}
+
+.css-1mxz8qt-MuiPaper-root {
+  width: 97% !important;
+}
+
+.css-3zphzr {
+  margin-left: 0 !important;
+}
+
+.MuiFormControl-root,
+.MuiBox-root {
+  width: 103% !important;
+}
+
+.css-md26zr-MuiInputBase-root-MuiOutlinedInput-root {
+  width: 90% !important;
+}
+.internal-autofill-selected {
+  background-color: -internal-light-dark(
+    rgb(111, 222, 174),
+    rgba(120, 198, 191, 0.4)
+  ) !important;
+  color: -internal-light-dark(black, white) !important;
+}
+
+/* ----------- Small dropdown name on top @paddings@ ------------------ */
+.css-1z7n62 {
+  font-size: 1.05em !important;
+}
+
+/* ----------- Dropdown gray border ------------------ */
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 1px !important;
+  height: 45px;
+}
+/* ----------- On focus dropdow border color ------------------ */
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused
+  .MuiOutlinedInput-notchedOutline {
+  border-color: #72bb94 !important;
+}
+
+/*----------- DROPDOWN part ------------------ */
+.MuiList-root
+  MuiList-padding
+  MuiMenu-list
+  css-6hp17o-MuiList-root-MuiMenu-list {
+  width: 88% !important;
+  margin-left: 3em !important;
+}
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root.Mui-selected {
+  background-color: #e4f0e9 !important;
+}
+
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked,
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+  color: #72bb94 !important;
+}
+
+.css-zow5z4-MuiGrid-root > .MuiGrid-item {
+  padding-left: 24px;
+  margin-top: 3em !important;
+}
+
+.text {
+  color: "#303133" !important;
+}
+
+/* ---------- Slider width ------------------------*/
+.css-1v5z18m {
+  width: 41vw !important;
+  margin-left: 2em !important;
+  margin-right: 2em !important;
+}
+
+.css-187mznn-MuiSlider-root {
+  color: #72bb94 !important;
+}
+/* ------------- slider color -------------------- */
+.css-eg0mwd-MuiSlider-thumb:hover,
+.css-eg0mwd-MuiSlider-thumb.Mui-focusVisible {
+  box-shadow: 0px 0px 0px 8px rgba(55, 151, 114, 0.16);
+}
+
+/* -----------  Form Message ---------------------  */
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  width: 96% !important;
+}
+
+#buttonEmail {
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
